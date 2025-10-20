@@ -1,7 +1,10 @@
-Copyright 2014-2015 UNINETT AS, http://www.uninett.no
+Copyright 2007-2020 UNINETT AS, 2021-2024 SimpleSAMLphp
 
-This software is licensed under the CC-GNU LGPL version 2.1.
+SimpleSAMLphp is licensed under the CC-GNU LGPL version 2.1.
 http://creativecommons.org/licenses/LGPL/2.1/
+
+Note that some of the embedded libraries may be using other licenses.
+For example xmlseclibs uses BSD license.
 
 This library is free software; you can redistribute it and/or
 modify it under the terms of the GNU Lesser General Public
