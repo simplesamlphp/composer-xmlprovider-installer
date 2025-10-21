@@ -4208,16 +4208,16 @@
         },
         {
             "name": "simplesamlphp/simplesamlphp-test-framework",
-            "version": "v1.10.2",
+            "version": "v1.10.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/simplesamlphp-test-framework.git",
-                "reference": "41339027be51699193803ba210960dd2d0b09fe0"
+                "reference": "0571b27731ad4ec90a2350e6a927cb2214ad3a6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-test-framework/zipball/41339027be51699193803ba210960dd2d0b09fe0",
-                "reference": "41339027be51699193803ba210960dd2d0b09fe0",
+                "url": "https://api.github.com/repos/simplesamlphp/simplesamlphp-test-framework/zipball/0571b27731ad4ec90a2350e6a927cb2214ad3a6b",
+                "reference": "0571b27731ad4ec90a2350e6a927cb2214ad3a6b",
                 "shasum": ""
             },
             "require": {
@@ -4259,7 +4259,7 @@
                 "issues": "https://github.com/simplesamlphp/simplesamlphp-test-framework/issues",
                 "source": "https://github.com/simplesamlphp/simplesamlphp-test-framework"
             },
-            "time": "2025-09-16T19:53:22+00:00"
+            "time": "2025-10-20T22:31:05+00:00"
         },
         {
             "name": "slevomat/coding-standard",
