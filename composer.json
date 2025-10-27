@@ -14,10 +14,10 @@
     "require": {
         "php": "^8.2",
 
-        "composer/composer": "~2.8.12",
         "composer-plugin-api": "~2.6.0"
     },
     "require-dev": {
+        "composer/composer": "~2.8.12",
         "simplesamlphp/simplesamlphp-test-framework": "~1.10.3"
     },
     "config": {
