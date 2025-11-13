@@ -17,7 +17,7 @@
         "composer-plugin-api": "~2.6.0"
     },
     "require-dev": {
-        "composer/composer": "~2.8.12",
+        "composer/composer": "~2.9.0",
         "simplesamlphp/simplesamlphp-test-framework": "~1.10.3"
     },
     "config": {
