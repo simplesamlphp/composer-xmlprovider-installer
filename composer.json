@@ -12,13 +12,13 @@
         "class": "SimpleSAML\\Composer\\XMLProvider\\XMLProviderInstallerPlugin"
     },
     "require": {
-        "php": "^8.2",
+        "php": "^8.3",
 
-        "composer-plugin-api": "~2.9.0"
+        "composer-plugin-api": "~2.9"
     },
     "require-dev": {
-        "composer/composer": "~2.9.0",
-        "simplesamlphp/simplesamlphp-test-framework": "~1.10.3"
+        "composer/composer": "~2.9",
+        "simplesamlphp/simplesamlphp-test-framework": "~1.11"
     },
     "config": {
         "allow-plugins": {
