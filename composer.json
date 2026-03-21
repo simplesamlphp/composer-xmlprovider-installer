@@ -28,7 +28,8 @@
     "config": {
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "phpstan/extension-installer": true
+            "phpstan/extension-installer": true,
+            "simplesamlphp/composer-module-installer": true
         }
     }
 }
