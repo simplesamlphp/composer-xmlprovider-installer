@@ -21,6 +21,7 @@
         "simplesamlphp/simplesamlphp-test-framework": "~1.11"
     },
     "extra": {
+        "class": "SimpleSAML\\Composer\\XMLProvider\\XMLProviderInstallerPlugin",
         "branch-alias": {
             "dev-master": "1.4.0.x-dev"
         }
