@@ -12,7 +12,7 @@
         "class": "SimpleSAML\\Composer\\XMLProvider\\XMLProviderInstallerPlugin"
     },
     "require": {
-        "php": "^8.3",
+        "php": "^8.5",
 
         "composer-plugin-api": "~2.9"
     },
