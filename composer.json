@@ -14,10 +14,11 @@
     "require": {
         "php": "^8.5",
 
-        "composer-plugin-api": "~2.9"
+        "composer-plugin-api": "~2.9",
+        "composer/composer": "~2.9"
     },
     "require-dev": {
-        "composer/composer": "~2.9",
+        "phpunit/phpunit": "^13.3",
         "simplesamlphp/simplesamlphp-test-framework": "~2"
     },
     "extra": {
